@@ -15,7 +15,9 @@ Backend Developer focused on automation, integrations, and async-first backend s
 - Node.js  
 - PostgreSQL  
 - Docker  
-- JWT Auth  
+- JWT Auth
+- Prisma
+- REST API
 
 ## 🚀 Featured Project
 **Automation Backend Demo**  
