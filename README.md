@@ -1,5 +1,5 @@
 # NikolayGopenko
-I'm Backend Developer focused on automation &amp; integrations
+
 # Hi, I'm Nikolay 👋
 
 Backend Developer focused on automation, integrations, and async-first backend systems.
