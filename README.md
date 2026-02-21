@@ -15,7 +15,7 @@ Backend Developer focused on automation, integrations, and async-first backend s
 - Docker  
 - JWT Auth
 - Prisma
-- REST API
+- REST APIs
 
 ## 🚀 Featured Project
 **Automation Backend Demo**  
