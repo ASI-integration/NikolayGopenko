@@ -29,4 +29,4 @@ Showcases backend architecture, authentication, and CRUD patterns.
 
 ---
 
-If you’re looking for a backend developer who works well independently and delivers production-ready systems — feel free to reach out.
+If you're looking for a backend developer who works independently and delivers production-ready systems — feel free to reach out.
